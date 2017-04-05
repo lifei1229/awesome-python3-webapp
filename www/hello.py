@@ -1,4 +1,4 @@
-animals = ['a','d','f']
+animals = ['a','d','f','h']
 
 bear = animals[0]
 
